@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PrimeFactorsCalculatorTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-03-03T11:00:38" hostname="WNB024506CPS" time="0.016">
+  <properties/>
+  <testcase name="testProductOfPrimes" classname="PrimeFactorsCalculatorTest" time="0.002"/>
+  <testcase name="testCubeOfAPrime" classname="PrimeFactorsCalculatorTest" time="0.0"/>
+  <testcase name="testNoFactors" classname="PrimeFactorsCalculatorTest" time="0.0"/>
+  <testcase name="testProductOfPrimesAndNonPrimes" classname="PrimeFactorsCalculatorTest" time="0.0"/>
+  <testcase name="testPrimeNumber" classname="PrimeFactorsCalculatorTest" time="0.0"/>
+  <testcase name="testSquareOfAPrime" classname="PrimeFactorsCalculatorTest" time="0.0"/>
+  <testcase name="testFactorsIncludingALargePrime" classname="PrimeFactorsCalculatorTest" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

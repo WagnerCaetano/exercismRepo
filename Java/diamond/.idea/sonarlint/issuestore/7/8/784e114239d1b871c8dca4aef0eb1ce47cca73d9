@@ -1,0 +1,10 @@
+
+0
+java:S1220""Move this file to a named package.
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®š%
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ­ìûÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(»ñ£áùÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀİË
+k	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Ö—Şùÿÿÿÿ

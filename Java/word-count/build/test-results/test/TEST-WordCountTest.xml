@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WordCountTest" tests="1" skipped="1" failures="0" errors="0" timestamp="2020-02-27T11:24:40" hostname="WNB024506CPS" time="4.83">
+  <properties/>
+  <testcase name="handlesExpandedLists" classname="WordCountTest" time="4.83">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
