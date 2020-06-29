@@ -1,5 +1,5 @@
 # Exercism Repository
 
-##This is a repository about my training at exercism.com
+This is a repository about my training at exercism.com
 
-###JAVA
+JAVA
