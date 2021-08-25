@@ -17,5 +17,5 @@
 
 4. [Diamond](https://github.com/WagnerCaetano/exercismRepository/tree/master/Java/diamond) - The diamond kata takes as its input a letter, and outputs it in a diamond shape. Given a letter, it prints a diamond starting with 'A', with the supplied letter at the widest point.
 
-5. [Rail Fence Cipher](https://github.com/WagnerCaetano/exercismRepository/tree/master/Java/rail-fence-cipher) - The Rail Fence cipher is a form of transposition cipher that gets its name from the way in which it's encoded. It was already used by the ancient Greeks.
+5. [Binary Search](https://github.com/WagnerCaetano/exercismRepository/tree/master/Java/binary-search) - Searching a sorted collection is a common task. A dictionary is a sorted list of word definitions. Given a word, one can find its definition. A telephone book is a sorted list of people's names, addresses, and telephone numbers. Knowing someone's name allows one to quickly find their telephone number and address.
 
